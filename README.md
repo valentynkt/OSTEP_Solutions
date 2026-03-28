@@ -4,7 +4,7 @@
 
 Hands-on experiments and homework solutions as I work through [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi & Andrea Arpaci-Dusseau.
 
-Every line here is written by hand, stepped through with `lldb`, and understood before it was committed.
+Written in Neovim, debugged with `lldb`, understood before committed.
 
 ---
 
