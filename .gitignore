@@ -1,0 +1,15 @@
+# Compiled binaries
+*.o
+*.out
+*.dSYM/
+
+# OS files
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Build artifacts - exclude binaries but keep source
+# Each chapter Makefile defines its own program names
